@@ -8,3 +8,5 @@
 - Making sure its Compatible with pc and mobile
 - best experince for pc and mobile
 - using AZYsGithub's ui library: https://github.com/AZYsGithub/DrRay-UI-Library
+
+### Script Loadstring: 
