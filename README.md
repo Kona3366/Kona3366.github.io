@@ -9,4 +9,4 @@
 - best experince for pc and mobile
 - using AZYsGithub's ui library: https://github.com/AZYsGithub/DrRay-UI-Library
 
-### Script Loadstring: 
+### Script Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/Kona3366/IconHubScript/main/README.md", true))()
