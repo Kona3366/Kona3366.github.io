@@ -13,3 +13,5 @@
   - Prison Life
 
 ### Script Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/Kona3366/IconHubScript/main/README.md", true))()
+
+### Script Status: Offline
